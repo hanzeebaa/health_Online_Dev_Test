@@ -1,0 +1,13 @@
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CurrencyForm.resources
+C:\dev\personalDev\health_Online_Dev_Test\DevTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
